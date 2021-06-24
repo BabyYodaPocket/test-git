@@ -1,0 +1,157 @@
+body{
+    background-color: black;
+    color: #B50000;
+    background-image: url(images/Sabrinakuku.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-family: 'chilling_sabrina', sans-serif;
+    font-size: 20px;
+}
+
+@font-face{     
+    font-family: 'chilling_sabrina';     
+    src: url('Chilling Sabrina.ttf');
+}
+
+h1{
+    text-align: center;
+    padding-right: 500px;
+}
+.titre1{
+    font-size: 55px;
+    font-weight: lighter;
+}
+
+.Sabrina{
+    font-size: 130px ;
+    font-weight: lighter;
+}
+
+a{
+    text-decoration: none;
+    color: #B50000;
+    font-family: yeon_sung_regular;
+    src: url('YeonSung-Regular.ttf');
+}
+
+.gras{
+    font-weight: bolder;
+}
+
+@font-face{     
+    font-family: 'yeon_sung_regular';     
+    src: url('YeonSung-Regular.ttf');
+}
+
+.synop{
+    font-family: 'yeon_sung_regular';
+    font-size: 30px;
+}
+
+.perso, .description{
+    font-family:'yeon_sung_regular' ;
+    text-align: center;
+}
+
+.menu{
+    word-spacing: 80px;
+}
+
+.videos{
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    background-image: url(images/pompom2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -50px;
+}
+
+.button{
+    background: black;
+    border-color: #B50000;
+    border-radius: 50px;
+    font-size: 15px;
+    color: #B50000;
+    line-height: 2.5;
+    padding: 0 20px;
+    width: 100px;
+}
+
+.contact{
+    text-align: center;
+    margin-top: -120px;
+}
+
+.lien{
+    font-size: 15PX;
+    line-height: 50%;
+    font-family: 'yeon_sung_regular';
+    text-decoration-line: underline;
+    margin-top: -120px;
+    text-align: center;
+}
+
+.END2{
+    text-align: center;
+    font-size: 15PX;
+    line-height: 50%;
+    font-family: 'yeon_sung_regular';
+    margin-top: -60px; 
+}
+
+.END{
+    text-align: center;
+
+}
+
+figcaption{
+    color: white;
+    text-align: center;
+}
+
+label, input,textarea {
+    /* display: table-cell; */
+    padding: 11px 250px 11px 4px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    background-color: black;
+    color: #B50000;
+    font-family: 'yeon_sung_regular' ;
+    border: 1px solid #B50000;
+    width: 285px;
+}
+
+.ntc{
+    text-align: center;
+    padding-top: 0%;
+}
+
+#tosynopsis{
+    text-align: center;
+    font-size: 40px;
+    margin-top: -180px;
+}
+#topersonnages{
+    text-align: center;
+    font-size: 40px;
+    margin-top: -120px;
+}
+
+#tosaisons{
+    text-align: center;
+    font-size: 40px;
+}
+
+#tocontact{
+    text-align: center;
+    font-size: 40px;
+}
+
+div{
+    padding-top: 10%
+}
+
+.ntt{
+    margin-bottom: 30%;
+}

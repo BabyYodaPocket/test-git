@@ -1,0 +1,76 @@
+h6,
+.p2{
+    color: red;
+    font-size: 50px;
+}
+
+p{
+    color: green;
+}
+
+.p2{
+background-color: yellow;
+}
+
+
+table{
+    font-size: 50px;
+    background: lightblue;
+}
+
+tr{
+    background: red;
+}
+
+td{
+    background: green;
+    border: 10px solid orange;
+}
+
+.parent{
+    background: yellow;
+}
+
+.oncle{
+    background: pink;
+    text-align: center;
+}
+
+.parent, .p2{
+background: green;
+}
+
+.jaune{
+    background: yellow;
+}
+
+.rose{
+    background: #ffc0cb;
+}
+
+.jaune .p2{
+    background-origin: green;
+}
+
+
+.container{
+    background: purple;
+    border: 4px solid black;
+    color: white;
+}
+
+.container h1{
+font-size: 60px;
+font-family: sans-serif;
+font-weight: lighter;
+}
+
+.container .smallcontainer{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+ol{
+    background: red;
+    color: yellow;
+}

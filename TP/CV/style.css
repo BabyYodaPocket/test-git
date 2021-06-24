@@ -1,0 +1,64 @@
+.infos{
+    color: blue;
+}
+
+img{
+    width : 130px;
+    height : 100px;
+}
+
+h1{
+    color: white;
+    background-color:skyblue;
+    text-align: center;
+}
+
+h2{
+    background-color: skyblue;
+    color: black;
+}
+
+.propos{
+    color: green;
+}
+
+.DM{
+    background-color: lightgreen;
+}
+
+.center{
+    text-align: center;
+}
+
+.forma{
+    color: red;
+}
+
+.voici{
+    color: blue;
+}
+
+td{
+    border: 1px solid black;
+}
+
+#forma{
+    font-weight: normal;
+}
+
+.grand{
+    font-size: 25px;
+}
+
+#pf{
+    background: aqua;
+}
+
+#con{
+    color: darkblue;
+}
+
+form{
+    background: purple;
+    color: white;
+}

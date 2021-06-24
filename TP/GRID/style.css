@@ -1,0 +1,18 @@
+body{
+    display:grid;
+    grid-template-columns: repeat(4, 20%);
+    grid-template-rows: repeat(4, 50%);
+}
+
+h1{
+    border: 4px solid black;
+    font-style: oblique;
+    grid-column: 1 / 2;
+    font-size: 12px;
+}
+
+.para{
+    border: 5px solid pink;
+    font-style: italic;
+    grid-row: 2 / 4;
+}
